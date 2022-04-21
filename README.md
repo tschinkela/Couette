@@ -14,4 +14,4 @@ It is a python notebook file, and can all be executed from the "Restart and Run 
 
 The varaibles that can most easily be changed are the values in the N and dt arrays, and the err value in the first block of code.  These will have an effect on the figures generated.  
 
-In order to change the input values for the generation of the .csv file, the "choice_N" and "choice_dt" variables need to be changed.
+In order to change the input values for the generation of the .csv files, the "choice_N" and "choice_dt" variables need to be changed.
